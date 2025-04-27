@@ -44,9 +44,7 @@
 ## 🛰️ Deployment Steps
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
-  
-### <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
-  
+    
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
   <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
@@ -57,21 +55,19 @@
 </div>
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-
-### <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
 --- 
 > **PAIRING LINK (01)**
-  <a href='https://khanmdx-pair.onrender.com/' target="_blank">
+  <a href='https://khanxmd.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
 > **PAIRiNG LINK (02)**
-  <a href='https://jawadik.onrender.com/' target="_blank">
+  <a href='https://jawadxmd.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
